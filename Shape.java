@@ -1,5 +1,5 @@
 package tetris; 
-
+// Owen Lowe, Isaac Christensen
 import java.util.Random;
 
 public class Shape {
