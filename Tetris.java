@@ -1,4 +1,4 @@
-//Moded by Owen Lowe and Isaac Christensen
+//Moded by Owen Lowe and Isaac Christensen.
 
 package tetris; 
 
